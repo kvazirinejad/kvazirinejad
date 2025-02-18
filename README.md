@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @kvazirinejad
-- 👀 I’m interested in web,mobile and desktop development.
-- 🌱 I’m currently learning HTML,CSS and Javascript but I am developed several applications by VBA,Access and SQL.
-- 💞️ I’m looking to collaborate on web site developments and developing desktop software in Access,VBA and SQL.
-- 📫 You can reach me at kvaziri@outlook.com.
+# 👋 Hi, I’m @kvazirinejad  
 
-<!---
-kvazirinejad/kvazirinejad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+I am an experienced Data Analyst and Senior Accountant with a strong background in finance, IT, and software development. With over 20 years of expertise, I specialise in data analysis, financial modelling, and business intelligence.  
+
+## 💡 Interests  
+- Software development using **C#**, **Python**, and **SQL**  
+- Data analysis and automation using **Python**, **C#**, **Excel**, **Power Query**, **DAX**, **M Language**, **VBA**, **Power Automate** , **Power App** and **Access**  
+- App development, currently learning **HTML**, **CSS**, **MUAI**, **WPF** and **JavaScript**  
+- Building efficient **desktop applications** and **data-driven solutions**  
+
+## 🛠️ Skills & Technologies  
+- **Data Analysis & BI:** Excel, Power Query, DAX, SQL, R  
+- **Automation & Scripting:** VBA, Python, M Language  
+- **Database Management:** SQL Server, Access  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Software Development:** C# , **Python**
+- **Financial & Business Analysis**  
+
+## 🤝 Collaboration & Projects  
+I am open to collaborating on:  
+- App development projects  
+- Desktop software solutions using **C#, Python, VBA, and SQL**  
+- Data analysis and business intelligence projects  
+
+## 📫 Contact Me  
+📧 Email: [kvaziri@outlook.com](mailto:kvaziri@outlook.com)  
+🌐 Website: [www.virsa.co](https://www.virsa.co)  
+
+Let's connect and create impactful solutions! 🚀
